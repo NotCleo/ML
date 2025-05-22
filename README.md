@@ -15,3 +15,6 @@ Download from here - https://www.anaconda.com/download/success and run sh Anacon
         # To deactivate an active environment, use
         #
         #     $ conda deactivate
+
+    If you want to install all the dependencies 
+       Follow pip install -r requirements.txt
