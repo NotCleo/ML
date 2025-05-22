@@ -7,3 +7,11 @@ Download from here - https://www.anaconda.com/download/success and run sh Anacon
     If you want to disable it : conda config --set auto_activate_base false 
     
     If you want to enable it :conda activate
+
+        # To activate this environment, use                                                 
+        #                                                                                   
+        #     $ conda activate ./venv                         
+        #                                                                                   
+        # To deactivate an active environment, use
+        #
+        #     $ conda deactivate
